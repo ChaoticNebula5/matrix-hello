@@ -6,5 +6,5 @@ import "fmt"
 var version = "dev"
 
 func main() {
-	fmt.Println("hello from matrix " + versio)
+	fmt.Println("hello from matrix " + version)
 }
